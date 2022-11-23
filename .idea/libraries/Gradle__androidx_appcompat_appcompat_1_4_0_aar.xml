@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.appcompat:appcompat:1.4.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-1.4.0.aar/5f096036b61148c839ed497bbb33ce51/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-1.4.0.aar/44e6d7c8375d5a616630b3b6140224af/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/051d3f8dedc15165de7ce4c0e1abacc1/transformed/appcompat-1.4.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-1.4.0.aar/5f096036b61148c839ed497bbb33ce51/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-1.4.0.aar/5f096036b61148c839ed497bbb33ce51/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-1.4.0.aar/5f096036b61148c839ed497bbb33ce51/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-1.4.0.aar/44e6d7c8375d5a616630b3b6140224af/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-1.4.0.aar/44e6d7c8375d5a616630b3b6140224af/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-1.4.0.aar/44e6d7c8375d5a616630b3b6140224af/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/051d3f8dedc15165de7ce4c0e1abacc1/transformed/appcompat-1.4.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/051d3f8dedc15165de7ce4c0e1abacc1/transformed/appcompat-1.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/051d3f8dedc15165de7ce4c0e1abacc1/transformed/appcompat-1.4.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.4.0/90635e5c864748b479ea6bdd3439b68a6eb678a9/appcompat-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

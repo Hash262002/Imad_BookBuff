@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.firebaseui:firebase-ui-common:6.2.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-ui-common-6.2.1.aar/93b4d592a00c74d4c3bf5ec6f925e37a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-ui-common-6.2.1.aar/93b4d592a00c74d4c3bf5ec6f925e37a/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-ui-common-6.2.1.aar/93b4d592a00c74d4c3bf5ec6f925e37a/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-ui-common-6.2.1.aar/ec08f82fb7868534a4bdfd298fc03476/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-ui-common-6.2.1.aar/ec08f82fb7868534a4bdfd298fc03476/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-ui-common-6.2.1.aar/ec08f82fb7868534a4bdfd298fc03476/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-ui-common-6.2.1.aar/65699a8603500fbfb04dbfb49fcb5890/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/67a34150318b166ba58ae0fcf7eea276/transformed/jetified-firebase-ui-common-6.2.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/67a34150318b166ba58ae0fcf7eea276/transformed/jetified-firebase-ui-common-6.2.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/67a34150318b166ba58ae0fcf7eea276/transformed/jetified-firebase-ui-common-6.2.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.firebaseui/firebase-ui-common/6.2.1/fc12e2d6d1e7b8b280a44276ab9f64bee18da80e/firebase-ui-common-6.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.firebaseui/firebase-ui-common/6.2.1/fe996639ad729888ab5406ba6c7aa35f0c4ed9d/firebase-ui-common-6.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

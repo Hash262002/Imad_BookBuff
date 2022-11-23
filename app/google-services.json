@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "80941839379",
+    "project_id": "book-app-1e148",
+    "storage_bucket": "book-app-1e148.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80941839379:android:4c0e46fe8c4ed60071fbe6",
+        "android_client_info": {
+          "package_name": "com.classroom.bookyard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80941839379-204g4usr6afj6vjjtu2o3528m4ntnok5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM2V_gdc0Tf2J5gHs6YgfnIIbW-yfjauI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80941839379-204g4usr6afj6vjjtu2o3528m4ntnok5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
